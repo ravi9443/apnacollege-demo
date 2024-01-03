@@ -1,2 +1,2 @@
 # apnacollege-demo
-Author- Ravi Jain
+Author- Ravi Jain(LNMIIT)
